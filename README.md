@@ -6,7 +6,7 @@
 
 ## 目录
 * [iOS](#iOS)
-* [Swift](#Swift)
+* [Brew](#Brew)
 * [react-native](#react)
 * [android](#android)
 
@@ -18,11 +18,19 @@
     * 
   
 
-## <a id="Swift"></a>Swift
-* 工具
+## <a id="Brew"></a>Brew
+### 常用命令
+- 升级已安装的软件： `brew upgrade`
 
 ## <a id="react"></a>react-native
-* 工具
+
+###工具
+
+* WebStorm 目录展示缩略图插件：[https://plugins.jetbrains.com/plugin/9710-iconviewer]()
+
+###资源
+
+* 	ES6 : [http://es6.ruanyifeng.com/#README]()
 
 ## <a id="android"></a>android
 * 工具
